@@ -2,7 +2,7 @@
 
 # Coffee Store Exercise
 
-## What is aa coffee?
+## What is a coffee?
 
 Is the minimal unit to sell in our store, have fields like:
 
